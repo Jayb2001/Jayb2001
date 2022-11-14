@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jordan</h1>
 <h3 align="center">A passionate frontend developer from Flordia, currently residing in Texas!</h3>
-<img align="right" alt="Coding" width="400" img scr="https://tenor.com/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487">
+<img align="right" alt="Coding" width="400" img scr="animated gif.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayb2001&label=Profile%20views&color=0e75b6&style=flat" alt="jayb2001" /> </p>
