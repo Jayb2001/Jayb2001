@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript, React,& polishing up my HTML/CSS skills**
 
-- 👨‍💻 All of my projects are available at [https://t.co/PVQbLYfZdu](https://t.co/PVQbLYfZdu)
+- 👨‍💻 For more information about me click here --> [https://t.co/PVQbLYfZdu](https://t.co/PVQbLYfZdu)
 
 - 💬 Ask me about **HTML & CSS**
 
