@@ -10,8 +10,6 @@
 
 - 👨‍💻 For more information about me click here --> [https://t.co/PVQbLYfZdu](https://t.co/PVQbLYfZdu)
 
-- 💬 Ask me about **HTML & CSS**
-
 - 📫 How to reach me **belljordan1130@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
